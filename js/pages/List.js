@@ -98,30 +98,34 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>Submission Requirements</h3>
+                    <h3>Submission Rules</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        The level must use only one gamemode from start to finish.
+                        Mini and normal are allowed. Duals are allowed.
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        The Level must be legitimately verified by a human player (No hacks or TAS)
+                        Give proof. With handcam, clicks, or something of that kind.
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        The level must be at least demon difficulty.
+                        It can be easy/medium/hard/insane/extreme demon, but nothing lower.
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        Being rated is not required, but rated levels are accepted.
+                        Decoration quality doesn't matter, but gameplay quality does. If it has bad gameplay it won't be considered for the list.
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        The level must be 100% finished with at least good structuring.
+                        If there are any checkpoints or placeholder gameplay sections, then the level will not be considered for the list.
+                        The level must also be 15 seconds or longer, no cap on length though, the endscreen has a max of three seconds, or it wont count.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        The level must be completely original, any copies of other levels not on the list or on the list, will not be considered.
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
-                    </p>
-                    <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        Any level can be submitted to the list, admins will check over every submission.
+                        You will be notified if your submission is accepted.
                     </p>
                 </div>
             </div>
