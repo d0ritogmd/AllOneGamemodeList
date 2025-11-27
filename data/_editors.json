@@ -2,41 +2,51 @@
     {
         "role": "owner",
         "name": "Onside",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "google.com"
+    },
+    {
+        "role": "owner",
+        "name": "xKiwiszx",
+        "link": "https://www.youtube.com/channel/UCvRn8dYm9L1vQiOFcpRKT3A"
+    },
+    {
+        "role": "owner",
+        "name": "moonbeam",
+        "link": "google,com"
+    },
+    {
+        "role": "owner",
+        "name": "szasza",
+        "link": "https://www.youtube.com/channel/UCAL5y3WWjpXm8xM2Ped_cnA"
     },
     {
         "role": "admin",
+        "name": "greenuser",
+        "link": "https://www.youtube.com/@d0rito_gmd"
+    },
+    {
+        "role": "helper",
+        "name": "Pkpek",
+        "link": "https://www.youtube.com/@PkepkGd"
+    },
+    {
+        "role": "helper",
         "name": "d0rito_",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.youtube.com/@d0rito_gmd"
     },
     {
         "role": "helper",
-        "name": "LuieGro",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "helper",
-        "name": "Firesrus",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "helper",
-        "name": "80_am",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "helper",
-        "name": "Mizue321",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "TruffLL",
+        "link": "https://www.youtube.com/channel/UCanbjOS8-054lBq-MF2LRlA"
     },
     {
         "role": "trial",
-        "name": "bruh idk maybe pkpek, wait no pkpek is co owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "google :D",
+        "link": "google.com"
     },
     {
         "role": "dev",
         "name": "d0rito_",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.youtube.com/@d0rito_gmd"
     }
 ]
