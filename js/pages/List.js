@@ -118,7 +118,7 @@ export default {
                     <p>
                         The level must be 100% finished with at least good structuring.
                         If there are any checkpoints or placeholder gameplay sections, then the level will not be considered for the list.
-                        The level must also be 15 seconds or longer, no cap on length though, the endscreen has a max of three seconds, or it wont count.
+                        The level must also be 30 seconds or longer, no cap on length though, the endscreen has a max of three seconds, or it wont count.
                     </p>
                     <p>
                         The level must be completely original, any copies of other levels not on the list or on the list, will not be considered.
